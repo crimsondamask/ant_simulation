@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+  "./egui_app",
+  "./simulation",
+  "./neuralnetwork",
+  "./genetic_algo",
+]
